@@ -1,6 +1,6 @@
 {
-    "title": "Stackbit Fjord Theme",
-    "palette": "yellow",
+    "title": "David's Website",
+    "palette": "red",
     "header": {
         "title": "Fjord",
         "tagline": "Minimal and clean blog theme",
@@ -63,7 +63,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; David MacDonald.  All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://macsix-website-f1cfd.netlify.app"
+    "domain": "https://macsix.io"
 }
