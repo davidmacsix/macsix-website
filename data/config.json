@@ -28,6 +28,15 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
+            },
+            {
+                "label": "Abount Me",
+                "url": "/about-me",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_social": true,
