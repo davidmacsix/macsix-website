@@ -49,3 +49,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- content/posts/first-post.md
