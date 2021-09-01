@@ -31,7 +31,7 @@
             },
             {
                 "label": "Abount Me",
-                "url": "#",
+                "url": "/about-me",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
