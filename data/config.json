@@ -2,7 +2,7 @@
     "title": "David's Website",
     "palette": "red",
     "header": {
-        "title": "Fjord",
+        "title": "macsix",
         "tagline": "Minimal and clean blog theme",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
@@ -28,15 +28,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Abount Me",
-                "url": "/about-me",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
@@ -67,6 +58,13 @@
                 "url": "https://dev.to/davidmacsix",
                 "style": "icon",
                 "icon_class": "dev",
+                "new_window": true
+            },
+            {
+                "label": "Fiverr",
+                "url": "https://fiverr.com/davidmacsix",
+                "style": "icon",
+                "icon_class": "fiverr",
                 "new_window": true
             }
         ]
